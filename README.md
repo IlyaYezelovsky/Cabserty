@@ -1,6 +1,6 @@
 # Cabserty
 
-**服务器IP：** cn-he-plc-2.openfrp.top:57541
+**服务器 IP：** cn-he-plc-2.openfrp.top:57541
 
 **客户端版本：** Java 版 1.20.2
 
